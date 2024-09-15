@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://caonl.github.io/Yct/sitemap.Yct.gz
